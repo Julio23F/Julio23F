@@ -22,6 +22,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-1e88e5?style=flat&logo=flutter&logoColor=FFFFFF)
+
 
 ### Technologies Backend
 ![Laravel](https://img.shields.io/badge/Laravel-fb503b?style=flat&logo=laravel&logoColor=FFFFFF)
