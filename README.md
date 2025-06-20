@@ -6,14 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-faralahy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://julio23f.vercel.app/)
 
-### Je suis développeur web fullstack.
-
-🌟 **Je suis passionné** : Toujours motivé par les dernières avancées tech, je m’efforce de rester à la pointe pour enrichir mes compétences et apporter des solutions innovantes.
-
-🎨 **Je suis créatif** : Grâce à mon sens du design, j’allie esthétique et fonctionnalité dans mes projets, offrant des interfaces intuitives et engageantes.
-
-💻 **Je suis développeur full stac**k : Expert en front-end et back-end (React, Laravel), je mets en œuvre les meilleures pratiques pour des applications performantes et robustes.
-
 ## Compétences techniques
 
 ### Technologies Frontend
