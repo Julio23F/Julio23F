@@ -12,8 +12,6 @@
 
 </div>
 
-</br>
-
 ---
 
 ## 🚀 Tech Stack
