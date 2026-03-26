@@ -38,6 +38,5 @@
   <img src="https://img.shields.io/badge/Frida-FF3E00?style=flat&logo=android&logoColor=white"/>
 </p>
 
----
 [![](https://visitcount.itsvg.in/api?id=Julio23F&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
