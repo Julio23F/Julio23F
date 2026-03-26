@@ -1,41 +1,74 @@
-# Welcome ! 👋
+<!-- Capsule Render -->
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-faralahy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://julio23f.vercel.app/)
+<div align="center">
+  
+  # Welcome to my GitHub profile 👋
+        
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Julio+Faralahy!;Full-Stack+Developer;Django+%2F+React+Specialist;DevOps+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 
-## Compétences techniques
+  <br/><br/>
 
-### Technologies Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)
+  <a href="https://www.linkedin.com/in/julio-faralahy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://julio23f.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white"/>
+  </a>
 
-### Technologies Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/Laravel-fb503b?style=flat&logo=laravel&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF)
-![MySql](https://img.shields.io/badge/MySql-FFFFFF?style=flat&logo=mysql&logoColor=f29111)
+</div>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+</br>
 
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=FFFFFF)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=FFFFFF)
+---
 
-### API & Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=FFFFFF)
+## 🚀 Tech Stack
 
-### Sécurité / Pentest
-![MITM](https://img.shields.io/badge/MITM-000000?style=flat&logo=hackthebox&logoColor=FFFFFF)
-![Frida](https://img.shields.io/badge/Frida-FF3E00?style=flat&logo=android&logoColor=FFFFFF)
+### 🛠 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,gitlab" />
+</p>
 
-### Divers
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,laravel,postgresql,mysql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### 🔗 API & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+### 🔐 Cybersecurity / Reverse
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://img.shields.io/badge/MITM-000000?style=flat&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frida-FF3E00?style=flat&logo=android&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Julio23F&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Julio23F&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio23F&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Julio23F&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Julio23F&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- Footer -->
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
