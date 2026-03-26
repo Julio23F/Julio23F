@@ -25,22 +25,22 @@
 
 ## 🚀 Tech Stack
 
-### 🛠 DevOps & Cloud
+### DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,gitlab" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,laravel,postgresql,mysql" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" />
 </p>
 
-### 🔐 Cybersecurity / Reverse
+### Security Testing / Reverse Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://img.shields.io/badge/MITM-000000?style=flat&logo=hackthebox&logoColor=white"/>
