@@ -40,16 +40,6 @@
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" />
 </p>
 
-### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🔗 API & Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
-
 ### 🔐 Cybersecurity / Reverse
 <p>
   <img src="https://skillicons.dev/icons?i=linux" />
