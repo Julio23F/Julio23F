@@ -2,12 +2,7 @@
 <div align="center">
   
   # Welcome to my GitHub profile 👋
-        
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Julio+Faralahy!;Full-Stack+Developer;Django+%2F+React+Specialist;DevOps+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
-
-  <br/><br/>
-
+  <br/>
   <a href="https://www.linkedin.com/in/julio-faralahy/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
