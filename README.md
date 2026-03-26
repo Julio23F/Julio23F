@@ -49,10 +49,6 @@
 
 ---
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Julio23F&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Julio23F&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
