@@ -1,6 +1,4 @@
 <!-- Capsule Render -->
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
 <div align="center">
   
   # Welcome to my GitHub profile 👋
@@ -50,5 +48,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Julio23F&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Footer -->
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
